@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This is the samples for research "A multi-scale language-based deep learning model for interpretable prediction of RNA methylation across multiple species".
+This is the samples for research "Interpretable multi-scale deep learning for RNA methylation analysis across multiple species".
 
 ## Get Started
 
